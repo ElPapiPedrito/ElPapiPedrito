@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy El Papi Pedrito🤗</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">Passionate about programming and web development💻🎮</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
